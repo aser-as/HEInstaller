@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/usr/bin
+cd $HOME
+cd HiddenEye
+python HiddenEye.py
