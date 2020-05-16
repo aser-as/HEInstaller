@@ -17,4 +17,5 @@ cd $HOME/HEInstaller
 chmod -x hiddenEye
 mv hiddenEye /data/data/com.termux/files/usr/bin
 clear 
-echo "HiddenEye has been install type HiddenEye to run!"
+echo "HiddenEye has been install type hiddenEye to run!" 
+
