@@ -14,7 +14,7 @@ echo " "
 echo "#Installing HiddenEye..."
 pip install requests
 cd $HOME/HEInstaller
-chmod -x HiddenEye
-mv HiddenEye /data/data/com.termux/files/usr/bin
-clear
+chmod -x hiddenEye
+mv hiddenEye /data/data/com.termux/files/usr/bin
+clear 
 echo "HiddenEye has been install type HiddenEye to run!"
